@@ -1,0 +1,23 @@
+2019-03-13 - v1.6
+-added 'cache' param, 0 disables
+-fixed transient for limit queries
+-fixed categories using id instead of slug
+
+2018-12-2 - v1.5
+-added banners and assets for wp.org
+
+2018-09-21 - v1.4
+-changed feed output limit default from 5->1
+-added limit API endpoint param to change feed item amount
+
+2018-09-18 - v1.3.3
+-added featured image capability
+-added excerpt capability
+-spelling
+-removed custom taxonomy, used standard wordpress categories instead for compatability
+
+2018-09-17 - v1.2
+-added transient cache for API feed with category support
+
+2018-09-17 - v1.1
+-Initial release
